@@ -1,0 +1,36 @@
+# Core LLM interaction
+requests
+httpx
+
+# CLI interface
+rich
+prompt_toolkit
+
+# Data handling
+pydantic
+
+# Database (SQLite is built-in, but this helps ORM if needed)
+sqlalchemy
+
+# Async support
+asyncio
+
+# File handling / utilities
+python-dotenv
+
+# Logging
+loguru
+
+# (Optional - for future upgrades)
+
+# Embeddings / vector DB
+chromadb
+
+# Git integration
+gitpython
+
+# Code parsing (for context tools)
+tree-sitter
+
+# Better JSON handling
+orjson
