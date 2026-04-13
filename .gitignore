@@ -1,2 +1,4 @@
 # Virtual Environment
 local-agent-env/
+venv/
+.env/
